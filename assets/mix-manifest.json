@@ -1,0 +1,15 @@
+{
+    "/js/main.js": "/js/main.js",
+    "/css/main.css": "/css/main.css",
+    "/css/main.min.css": "/css/main.min.css",
+    "/js/main.min.js": "/js/main.min.js",
+    "/fonts/ClashDisplay-Light.ttf": "/fonts/ClashDisplay-Light.ttf",
+    "/fonts/ClashDisplay-Medium.ttf": "/fonts/ClashDisplay-Medium.ttf",
+    "/fonts/ClashDisplay-Regular.ttf": "/fonts/ClashDisplay-Regular.ttf",
+    "/fonts/FontAwesome.otf": "/fonts/FontAwesome.otf",
+    "/fonts/fontawesome-webfont.eot": "/fonts/fontawesome-webfont.eot",
+    "/fonts/fontawesome-webfont.svg": "/fonts/fontawesome-webfont.svg",
+    "/fonts/fontawesome-webfont.ttf": "/fonts/fontawesome-webfont.ttf",
+    "/fonts/fontawesome-webfont.woff": "/fonts/fontawesome-webfont.woff",
+    "/fonts/fontawesome-webfont.woff2": "/fonts/fontawesome-webfont.woff2"
+}
