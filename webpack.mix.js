@@ -2,6 +2,11 @@ const mix = require("laravel-mix");
 require("tailwindcss");
 
 mix
+  .webpackConfig({
+    // watchOptions: {
+    //   ignored: /node_modules|vendor/,
+    // },
+  })
   .setPublicPath("assets")
   .sass("src/scss/main.scss", "css/")
   .options({

@@ -2,10 +2,10 @@ module.exports = {
   content: ["./**/*.php", "./assets/**/*.{js,jsx,ts,tsx,vue}"],
   theme: {
     colors: {
-      primary: "#1DA1F2",
-      secondary: "#D81B60",
-      black: "#FFC107",
-      white: "#FFFFFF",
+      primary: "#282669",
+      secondary: "#cb6828",
+      notblack: "#0a0d0f",
+      notwhite: "#fff8ec",
     },
     extend: {},
   },
