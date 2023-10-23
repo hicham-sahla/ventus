@@ -1,6 +1,5 @@
 <?php function create_projects_cpt() {
     $labels = array(
-        // Add your labels here. Refer to WordPress Codex for details.
     );
 
     $args = array(
